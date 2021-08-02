@@ -1,14 +1,1 @@
-<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="a" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.7060545"/>
-  </filter>
- </defs>
- <g transform="translate(0 -1020.4)">
-  <g transform="translate(-292 829.36)">
-   <path d="m315.12 211.29-7.293-7.293h5.1719v-4h-12v12h4v-5.1719l7.293 7.293z" color="#000000" color-rendering="auto" filter="url(#a)" image-rendering="auto" opacity=".35" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
-   <path d="m312.71 210.29-8.293-8.293h6.5859v-2h-10v10h2v-6.5859l8.293 8.293z" fill="#151515" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-   <path d="m312.71 210.29-8.293-8.293h6.5859v-2h-10v10h2v-6.5859l8.293 8.293z" fill="#151515"/>
-  </g>
- </g>
-</svg>
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31.73 31.71"><defs><style>.cls-1,.cls-2{fill:#231815;}.cls-1{stroke:#fff;stroke-miterlimit:10;}</style></defs><path class="cls-1" d="M22.35.75,4,2.64H4A1.7,1.7,0,0,0,2.39,4.35L.75,23a1.14,1.14,0,0,0,.67,1.09,1.19,1.19,0,0,0,1.28,0L8.8,18l13.55,13.3,8.91-8.48L17.46,9l5.74-6.4a1,1,0,0,0,0-1.16A1.08,1.08,0,0,0,22.35.75ZM2.52,21.61,4,4.35H4l16.9-1.77-6.1,6.59,14,13.54L22.41,29,8.74,15.39Z" transform="translate(-0.24 -0.24)"/><path class="cls-2" d="M1.75,23.24,3.52,3.75S21.84,1.9,22.36,1.9,16.3,9.1,16.3,9.1L30.22,22.76l-7.73,7.1L8.93,16.76Z" transform="translate(-0.24 -0.24)"/></svg>
