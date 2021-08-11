@@ -1,1 +1,10 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.16 29.13"><defs><style>.cls-1{fill:#040000;}.cls-2{fill:#fff;}</style></defs><path class="cls-1" d="M22.16,11.41l-7.24,7.24,3.74,3.83a.17.17,0,0,1-.05.25h0a.16.16,0,0,1-.11.05L7.8,21.86a.53.53,0,0,1-.52-.52L6.36,10.6a.19.19,0,0,1,.19-.17h.11l3.88,3.92L17.87,7C19.28,8.52,20.74,9.94,22.16,11.41Z"/><path class="cls-2" d="M23.28,10.79l-.23-.23L22.5,10h0L19,6.4l-.75-.8-7.7,7.7L7.2,10a.94.94,0,0,0-1.32,0,.91.91,0,0,0-.27.65l.93,10.78A1.25,1.25,0,0,0,7.8,22.6l10.67.93a.93.93,0,0,0,.91-.57.9.9,0,0,0-.18-1l-3.27-3.27,7.62-7.62-.27-.28Zm-1.94.36-7.52,7.54L17,21.9l-9-.78-.77-9,3.28,3.29,7.52-7.54Z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="15px" viewBox="0 0 14 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bottom_left_corner</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bottom_left_corner" transform="translate(1.000000, 1.410000)" fill="#151515" fill-rule="nonzero">
+            <polygon id="路径" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="10.293 0 2 8.293 2 1.7071 0 1.7071 0 11.7071 10 11.7071 10 9.7071 3.4141 9.7071 11.7071 1.4141"></polygon>
+            <polygon id="路径" points="10.293 0 2 8.293 2 1.7071 0 1.7071 0 11.7071 10 11.7071 10 9.7071 3.4141 9.7071 11.7071 1.4141"></polygon>
+        </g>
+    </g>
+</svg>

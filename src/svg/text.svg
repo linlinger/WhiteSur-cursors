@@ -1,1 +1,10 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.17 32"><defs><style>.cls-1{fill:#040000;}.cls-2{fill:#fff;}</style></defs><path class="cls-1" d="M19.07,30.24H16.25V1.76h2.82a.78.78,0,1,0,0-1.56H11.86a.78.78,0,1,0,0,1.56h2.82V30.24H11.86a.78.78,0,1,0,0,1.56h7.21a.78.78,0,0,0,0-1.56Z" transform="translate(-10.88 0)"/><path class="cls-2" d="M19.07,32H11.86a1,1,0,1,1,0-1.95h2.63V2H11.86a1,1,0,1,1,0-1.95h7.21a1,1,0,1,1,0,2H16.44v28.1h2.63a1,1,0,1,1,0,1.95Zm-7.21-1.56a.59.59,0,1,0,0,1.17h7.21a.59.59,0,1,0,0-1.17h-3V1.56h3a.59.59,0,1,0,0-1.17H11.86a.59.59,0,1,0,0,1.17h3V30.44Z" transform="translate(-10.88 0)"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="17px" viewBox="0 0 7 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>text</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="text" transform="translate(1.000000, 1.000000)">
+            <polygon id="路径" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="0 0 0 1 2 1 2 14 0 14 0 15 5 15 5 14 3 14 3 1 5 1 5 0"></polygon>
+            <polygon id="路径" fill="#151515" fill-rule="nonzero" points="0 0 0 1 2 1 2 14 0 14 0 15 5 15 5 14 3 14 3 1 5 1 5 0"></polygon>
+        </g>
+    </g>
+</svg>

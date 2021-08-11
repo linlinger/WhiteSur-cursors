@@ -1,12 +1,10 @@
-<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="a" x="-.31" y="-.19579" width="1.62" height="1.3916" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="1.5500146"/>
-  </filter>
- </defs>
- <g>
-  <path d="m15.004 7.28a1.0001 1.0001 0 0 0-0.9375 0.64062l-5 13a1.0001 1.0001 0 0 0 1.4473 1.2168l2.4863-1.4922v3.6348c0 1.0907 0.9093 2 2 2s2-0.9093 2-2v-3.6348l2.4863 1.4922a1.0001 1.0001 0 0 0 1.4473-1.2168l-5-13a1.0001 1.0001 0 0 0-0.92969-0.64062zm-0.0039 3.7871 3.0234 7.8613-1.5098-0.90625a1.0001 1.0001 0 0 0-1.5137 0.8457 1.0001 1.0001 0 0 0-1.5137-0.8457l-1.5098 0.90625z" color="#000000" color-rendering="auto" dominant-baseline="auto" filter="url(#a)" image-rendering="auto" opacity=".35" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-  <path d="m15.004 6a1.0001 1.0001 0 0 0-0.9375 0.64062l-5 13a1.0001 1.0001 0 0 0 1.4473 1.2168l2.4863-1.4922v3.6348c0 1.0907 0.9093 2 2 2s2-0.9093 2-2v-3.6348l2.4863 1.4922a1.0001 1.0001 0 0 0 1.4473-1.2168l-5-13a1.0001 1.0001 0 0 0-0.92969-0.64062zm-0.003906 3.7871 3.0234 7.8613-1.5098-0.90625a1.0001 1.0001 0 0 0-1.5137 0.8457 1.0001 1.0001 0 0 0-1.5137-0.8457l-1.5098 0.90625z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-  <path d="m15 7-5 13 4-2.4004v5.4004c0 0.554 0.446 1 1 1s1-0.446 1-1v-5.4004l4 2.4004-5-13z" fill="#151515"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="19px" viewBox="0 0 12 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>center_ptr</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="center_ptr" fill-rule="nonzero">
+            <path d="M8,18 C8,18.5522847 7.55228475,19 7,19 L5,19 C4.44771525,19 4,18.5522847 4,18 L4.00021047,13.365238 L1.51391047,14.857438 C1.14787769,15.0766003 0.683117268,15.0394354 0.356564237,14.7648899 C0.0300112067,14.4903443 -0.0864267546,14.0388738 0.0666104692,13.640638 L0.0666104692,13.640638 L5.06661047,0.640637993 C5.21584186,0.253201496 5.58893105,-0.0017407922 6.00411047,8.95026918e-06 C6.41644635,0.00149085242 6.78560407,0.255865766 6.93381047,0.640637993 L6.93381047,0.640637993 L11.9338105,13.640638 C12.0868477,14.0388738 11.9704097,14.4903443 11.6438567,14.7648899 C11.3173037,15.0394354 10.8525432,15.0766003 10.4865105,14.857438 L10.4865105,14.857438 L8.00021047,13.365238 L8,18 Z M6.00020447,3.78711799 L2.97660447,11.648418 L4.48640447,10.742168 C4.79349644,10.5583363 5.17541544,10.5526245 5.48786746,10.7271905 C5.80031948,10.9017566 5.99566673,11.2299855 6.00010447,11.587868 C6.00454221,11.2299855 6.19988946,10.9017566 6.51234148,10.7271905 C6.8247935,10.5526245 7.2067125,10.5583363 7.51380447,10.742168 L7.51380447,10.742168 L9.02360447,11.648418 L6.00020447,3.78711799 Z" id="形状结合" fill="#FFFFFF"></path>
+            <path d="M6.00011047,1.00001799 L11.0001105,14.000018 L7.00011047,11.599618 L7.00011047,17.000018 C7.00011047,17.0058173 7.0000616,17.0116047 6.99996424,17.0173799 L7,18 L6.01711047,17.999018 L6.00011047,18.000018 C5.99436077,18.000018 5.98862271,17.99997 5.98289666,17.9998743 L5,18 L5,16 L5.00011047,15.999018 L5.00011047,11.599618 L1.00011047,14.000018 L6.00011047,1.00001799 Z" id="形状结合" fill="#151515"></path>
+        </g>
+    </g>
 </svg>

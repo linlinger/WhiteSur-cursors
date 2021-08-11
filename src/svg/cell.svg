@@ -1,1 +1,9 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><defs><style>.cls-1{fill:#040000;}</style></defs><path class="cls-1" d="M30.86,14.86H17.14V1.15a1.15,1.15,0,1,0-2.29,0V14.86H1.14a1.14,1.14,0,0,0,0,2.28H14.85V30.85a1.15,1.15,0,1,0,2.29,0V17.14H30.86a1.14,1.14,0,0,0,0-2.28Z" transform="translate(0 0)"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>cell</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="cell" transform="translate(1.000000, 1.000000)" fill="#151515" fill-rule="nonzero" stroke="#FFFFFF">
+            <path d="M7.57616234,-0.5 L7.57616234,4.40358353 L12.5,4.40358353 L12.5,7.44294357 L7.57616234,7.44294357 L7.57616234,12.5 L4.47728348,12.5 L4.47728348,7.44294357 L-0.5,7.44294357 L-0.5,4.40358353 L4.47728348,4.40358353 L4.47728348,-0.5 L7.57616234,-0.5 Z" id="路径"></path>
+        </g>
+    </g>
+</svg>
